@@ -16,6 +16,7 @@ class Clientes extends CI_Controller
         - edit($id) (Vista) || (get)
         - update($id) (Proceso) || (post)
         - delete($id) (Proceso) || (post)
+        - comentario
     */
     public function index() // get
     {
